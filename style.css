@@ -1,12 +1,12 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f4f6f8;
+    background-color: #3f74a8;
     text-align: center;
     margin-top: 100px;
 }
 
 .container {
-    background: white;
+    background: rgb(206, 171, 58);
     padding: 40px;
     width: 50%;
     margin: auto;
@@ -17,7 +17,7 @@ body {
 button {
     padding: 10px 20px;
     background-color: #0078d7;
-    color: white;
+    color: rgb(250, 245, 245);
     border: none;
     border-radius: 5px;
     cursor: pointer;
